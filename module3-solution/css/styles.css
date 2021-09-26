@@ -1,0 +1,23 @@
+#navbarMenu {
+    margin-top: 10px;
+    border: 1px solid black;
+    width: 100%;
+}
+.nav-item {
+    background-color: #dbdbdb;
+    border-bottom:1px solid black;
+}
+.nav-item:last-child {
+    border-bottom: 0;
+}
+.jumbotron {
+    margin-bottom: 40px;
+}
+
+.row {
+    margin:20px;
+}
+section {
+    background-color: #dbdbdb;
+    padding-top: 10px;
+}
